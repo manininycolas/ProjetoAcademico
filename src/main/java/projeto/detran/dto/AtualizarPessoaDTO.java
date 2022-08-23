@@ -3,7 +3,7 @@ package projeto.detran.dto;
 import java.time.LocalDate;
 
 /**
- * Classe que representa o objeto AtualizarPessoa no corpo da requisição
+ * Classe que representa o objeto AtualizarPessoa no corpo da requisição.
  */
 public class AtualizarPessoaDTO {
 
